@@ -7,14 +7,14 @@
     <meta name = "author" content = "Luis Manuel" />
     <meta name = "description" content = "Breve formulario sobre Margaret Hamilton." />
     <title>Margaret Hamilton - Formulario</title>
-    <!--meta name ="viewport" content ="width=device-width, initial scale=1.0" /-->
+    <meta name ="viewport" content ="width=device-width, initial scale=1.0" />
     <!-- link rel="stylesheet" type="text/css" href="estilo.css" / -->
 </head>
 
 <body>
     <!-- Datos con el contenidos que aparece en el navegador -->
     <h1>Formulario de usuario</h1>
-    <form name="datos">
+    <!--form name="datos">
         <p><label> Introduzca su nombre: <input type="text" > </label></p>
         <p><label> Introduzca su email: <input type="email" > </label></p>
         <fieldset>
@@ -30,6 +30,20 @@
         <label for="op" > Dinos tú opinión:</label>
         <textarea id="op" name="opinión" rows="7" cols="80" placeholder="Da tu opinión sobre Margaret Hamilton"></textarea>
         <input type="button" value="Enviar información">
+    </form-->
+    <form name="datos">
+        <input type="text"> Introduzca su nombre:<br>
+        <input type="email"> Introduzca su email:<br>
+        <fieldset>
+            <legend>¿Conocías a Margaret Hamilton?</legend>
+            <input type="radio" name=MAsino value="Sí"> Sí <br>
+            <input type="radio" name=MAsino value="No"> No <br>
+        </fieldset>
+        <fieldset>
+            <legend>¿Sabías lo que era el AN/FSQ-7?</legend>
+            <input type="radio" name=ANsino value="Sí"> Sí <br>
+            <input type="radio" name=ANsino value="No"> No <br>
+        </fieldset>
     </form>
 </body>
 </html>
