@@ -1,0 +1,50 @@
+~~~~~~~~~~~~~ BIOGRAFÍA ~~~~~~~~~~~~~
+Terminado -> *Margaret Hamilton(17 de agosto de 1936) nació en Paoli, un pequeño pueblo del condado de Orange en el estado de Indiana.
+	      Fue la directora de la División de Ingeniería Software del laboratorio instrumental MIT.
+	      Su enfoque del diseño software fue pionero para la época, ya que los requisitos de robustez era una prioridad para 
+	      la seguridad y supervivencia de los astronautas durante los viajes a la luna.
+
+*Gracias a su talento el hombre pudo llegar a la Luna ya que logró resolver un problema justo antes del alunizaje.
+	-Es toda una detective de errores. Minutos antes de que el módulo lunar alunizara, hubo un fallo en el sistema. 
+	-Y gracias a que el software que diseñó Hamilton era capaz de detectar y priorizar las funciones imprescindibles 
+	-y descartar las que no lo eran mediante la detección precoz de errores, se evitó una sobrecarga del sistema
+
+
+*Es la persona que acuño el nombre de "Ingeniería Software".
+
+*Trabajó como profesora de matemáticas y francés en un instituto. 
+
+*Trabajó en el departamento de metereología del instituto tecnologico de Massachusetts(MIT), donde era encargada en diseñar
+Software que permitía predecir el tiempo utilizando los ordenadores LGP-30 y PDP-1.(BUSCAR INFORMACION SOBRE LOS DOS ORDENADORES)
+
+ y
+
+*Tambien trabajo en el AN/FSQ-7(ORDENADOR MILITAR QUE DETECTA Y DERRIBA AVIONES NO RECONOCIDOS).
+	-Gracias a su habilidad para encontrar y corregir errores, fue promocionada para trabajar en el proyecto SAGE (Semi-Automatic Ground Enviroment),
+	-un proyecto del Laboratorio Lincon del MIT desarrollado entre 1961 y 1963 que, aunque nació como un proyecto de predicción del clima, 
+	-rápidamente pasó a ser un proyecto militar. Margaret fue la encargada de desarrollar el software para el primer ordenador AN/FSQ-7, 
+	-que buscaba aviones “no-amigos” y guiaba misiles para derribarlos en el espacio aéreo norteamericano.
+
+*El gran exito de esta mision militar permitio que Hamilton se pudiera unir al Laboratorio Charles Stark Draper del MIT,
+esta unidad trabajaba en el Programa Apolo.
+En el Programa Apolo fue la encargada junto a su equipo, de diseñar parte del Software que hacía funcionar el Módulo de mando
+y el módulo lunar.
+
+*Aprovechando los conocimientos adquiridos en la deteccion de errores en 1976 cofundó la empresa Higher Order Software(HOS),
+en 1986 creó Hamilton Technologies dirigido a la prevencion de errores de software
+
+
+~~~~~~~~~~~~~ PREMIOS-RECONOCIMIENTOS ~~~~~~~~~~~~~~~
+*Exceptional Space Act Award - galardón que premi a grandes contribuciones científicas y tecnicas
+
+*Entre todos los premios que ha recibido durante toda su vida destaca el otorgado por el presidente de los EEUU que
+es la medalla presidencial de la libertad, esta condecoración es considerada como la concesión civil más alta
+en los Estados Unidos.
+
+~~~~~~~~~~~~~~~~~~~~~~~ DATOS ADICIONALES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~ URL ENTREVISTAS A MARGARET ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.magazinedigital.com/tecnologia/entrevistas/margaret-hamilton-mujer-que-llevo-al-hombre-luna
+
+https://verne.elpais.com/verne/2014/12/11/articulo/1418314336_993353.html
