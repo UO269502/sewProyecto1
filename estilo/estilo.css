@@ -9,7 +9,7 @@ body {
     }
 
 /* HEADER */
-h1 {
+header {
     border-radius:20px;
     color: rgb(0, 0, 0);    
     background-color:#eac5f8;
