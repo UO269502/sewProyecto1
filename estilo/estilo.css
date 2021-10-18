@@ -1,10 +1,14 @@
 /*Especificidad: 001*/
 body {
     font-family: Tahoma, sans-serif;
+    font-size:15px;
+	font-weight:300;
     color: #000000;
     background-color: rgb(250, 238, 210);
+    margin: 25px 50px;
     }
 
+/* HEADER */
 h1 {
     border-radius:20px;
     color: rgb(0, 0, 0);    
@@ -13,6 +17,11 @@ h1 {
     padding: 2em; 
     text-align: center;     
     }
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
     
 nav a{
     display: inline-block;
@@ -21,11 +30,11 @@ nav a{
     padding: 10px 30px;
     text-decoration: none;
     }
-
- nav a:hover{
+    
+nav a:hover{
     background: #beb7b7;
     }
-    
+        
 nav{
     background: #7782e4;
     padding: 10px;
@@ -107,12 +116,10 @@ footer{
     color:rgb(255, 255, 255);
 }
 
-img {
-    width: 100%; /*Problema que se muestre más grande que el tamaño real, se pixelará*/
-    height: auto;
-}
-
-video{
-    max-width: 100%;
-    height: auto;
+section video,
+section img,
+section audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
