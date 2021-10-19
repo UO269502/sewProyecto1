@@ -9,6 +9,7 @@ body {
     }
 
 /* HEADER */
+
 header {
     border-radius:20px;
     color: rgb(0, 0, 0);    
@@ -122,6 +123,16 @@ address p a{
 footer{
     background: rgb(0, 0, 0);
     color:rgb(255, 255, 255);
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+video{
+    max-width: 100%;
+    height: auto;
 }
 
 section video,
