@@ -125,6 +125,12 @@ footer{
 }
 
 section video,
+section img{
+    max-width: 100%;
+    height: auto;
+}
+
+section video,
 section img,
 section audio{
     display: block;
